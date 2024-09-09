@@ -1,10 +1,11 @@
-import numpy as np
-import copy
-import matplotlib.pyplot as plt
-import sys
-from numpy import *
-from numpy.linalg import *
+#import numpy as np
+#import copy
+#import matplotlib.pyplot as plt
+#import sys
+#from numpy import *
+#from numpy.linalg import *
 
+from tools import *
 
 eps=sys.float_info.epsilon
 
